@@ -6,17 +6,7 @@
 body{
   color: #674188;
 }
-@media screen and (max-width: 400px) {
-  body{
-   color: grey;
-   
- }
 
- nav {
-  font-size: 10px;
-}
- 
-}
 
 
 .box {
@@ -187,4 +177,42 @@ li{
 
 span{
   color:#BA90C6;
+}
+
+@media screen and (max-width: 400px) {
+  body{
+   color: grey;
+   
+ }
+
+ nav {
+  font-size: 10px;
+}
+
+.fav{
+  width:68%;
+  height: 216px;
+  padding: 10px;
+  
+}
+
+.career{
+  width:68%;
+  height: 400px;
+  padding: 10px;
+}
+.tech{
+  width:68%;
+  height: 216px;
+  padding: 10px;
+}
+
+
+.box-i img{
+  width:200px;
+  height: auto;
+  
+  
+  
+ 
 }
