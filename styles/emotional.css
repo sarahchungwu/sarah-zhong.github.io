@@ -1,0 +1,21 @@
+body {
+  background-color: hsl(300, 69%, 79%);
+  color:#FFF4D2;
+  font-family: 'Schoolbell', cursive;
+}
+div {
+  width:70%;
+  height: auto;
+  margin: auto 100px;
+  display:flex;
+  flex-direction: column;
+  
+}
+h2{
+  text-align: center;
+  color: #66347F;
+}
+
+a{
+  text-decoration: dashed;
+}

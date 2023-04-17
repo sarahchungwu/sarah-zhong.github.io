@@ -11,3 +11,7 @@ h2{
 hr{
   border-top: 1px dashed #B2A4FF;
 }
+
+a{
+  text-decoration: dotted;
+}

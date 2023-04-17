@@ -16,6 +16,10 @@ body{
 
 }
 
+a{
+  text-decoration: none;
+}
+
 a:hover {
   color: #c5cae9;
 }
@@ -191,7 +195,7 @@ span{
 
 .fav{
   width:68%;
-  height: 216px;
+  height: 241px;
   padding: 10px;
   
 }
@@ -203,7 +207,7 @@ span{
 }
 .tech{
   width:68%;
-  height: 216px;
+  height: 279px;
   padding: 10px;
 }
 
@@ -212,7 +216,5 @@ span{
   width:200px;
   height: auto;
   
-  
-  
- 
+  }
 }
