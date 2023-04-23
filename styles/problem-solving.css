@@ -1,0 +1,33 @@
+body {
+  background-color: #9BA4B5;
+  color:#F1F6F9;
+  font-family: 'Michroma', sans-serif;
+
+}
+div {
+  width:70%;
+  height: auto;
+  margin: auto 100px;
+  display:flex;
+  flex-direction: column;
+  
+}
+h1{
+  text-align: center;
+  color:#3C486B;
+}
+h2{
+  text-align: center;
+  color: #394867;
+}
+h3 {
+  text-align: center;
+  color:#212A3E;
+}
+a{
+  text-decoration: dashed;
+}
+
+p{
+  font-size: 19px;
+}
