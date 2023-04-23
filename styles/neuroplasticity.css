@@ -1,0 +1,28 @@
+body {
+  background-color: #FFF3E2;
+  color:#FA9884;
+  font-family: 'Nothing You Could Do', cursive;
+}
+div {
+  width:70%;
+  height: auto;
+  margin: auto 100px;
+  display:flex;
+  flex-direction: column;
+  
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: #E74646;
+}
+
+a{
+  text-decoration: dashed;
+}
+
+p{
+  font-size: 19px;
+}

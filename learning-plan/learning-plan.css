@@ -1,0 +1,29 @@
+body {
+  background-color: #FDF4F5;
+  color:#E8A0BF;
+  font-family: 'Caveat Brush', cursive;
+}
+div {
+  width:70%;
+  height: auto;
+  margin: auto 100px;
+  display:flex;
+  flex-direction: column;
+  
+}
+
+h2{
+  text-align: center;
+  color: #C0DBEA;
+  font-size: 25px;
+}
+
+
+a{
+  text-decoration: dashed;
+}
+
+p{
+  font-size: 19px;
+  text-align: center;
+}
