@@ -1,0 +1,28 @@
+body {
+  background-color:#F3DEBA;
+  color:#A9907E;
+  font-family: 'Indie Flower', cursive;
+  font-size: 19px;
+}
+
+div {
+  width:70%;
+  height: auto;
+  margin: auto 100px;
+  display:flex;
+  flex-direction: column;
+  
+}
+
+h1{
+  text-align: center;
+  color: #ABC4AA;
+}
+h2{
+  text-align: center;
+  color: #675D50;
+}
+
+a{
+  text-decoration: dashed;
+}
