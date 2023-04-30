@@ -19,3 +19,22 @@ h2{
 a{
   text-decoration: dashed;
 }
+
+.button {
+	font-family: 'Fira Code', monospace;
+	font-size: 1.5vw;
+	font-weight: 500;
+	display: inline-block;
+	outline: 0;
+	cursor: pointer;
+	border: 3px solid rgb(143, 49, 128);
+	border-radius: 3px;
+	color: white;
+	background: rgb(147, 75, 140);
+	padding: 12px 20px;
+	text-align: center;
+	transition-duration: .15s;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(.4,0,.2,1);
+	margin: 0px 15px 15px 15px;
+}
