@@ -1,7 +1,7 @@
 body {
-  background-color: #FDF4F5;
-  color:#E8A0BF;
-  font-family: 'Caveat Brush', cursive;
+  background-color: #faf0d7a4;
+  color:#8CC0DE;
+  font-family: 'Waiting for the Sunrise', cursive;
 }
 div {
   width:70%;
@@ -12,12 +12,19 @@ div {
   
 }
 
+
 h2{
   text-align: center;
-  color: #C0DBEA;
+  color: #F4BFBF;
   font-size: 25px;
 }
 
+h3{
+  text-align: center;
+  color: hsl(24, 83%, 54%);
+  font-size: 20px;
+  font-weight: 300;
+}
 
 a{
   text-decoration: dashed;
