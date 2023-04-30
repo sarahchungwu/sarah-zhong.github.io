@@ -51,7 +51,8 @@ nav {
  flex-direction: row;
  justify-content: space-between;
  position: fixed;
- font-family: 'IBM Plex Mono', monospace;
+ font-family: 'Nanum Pen Script', cursive;
+ font-size: 25px;
  text-shadow: 2px 2px 4px #E8A0BF;
 }
 h1{
